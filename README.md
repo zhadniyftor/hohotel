@@ -1,2 +1,2 @@
 # hohotel
-telegram bot
+telegram bot, с которым хоть на край света =)
